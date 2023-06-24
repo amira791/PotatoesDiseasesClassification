@@ -1,0 +1,2 @@
+# PotatoesDiseasesClassification
+A classification model 
